@@ -2,6 +2,7 @@ This project is a collection of labs I've done for Parallel Programming 2020 cou
 It includes various examples of using OpenMPI library, some of them being very simple and others a bit more complex.
 
 Here's one of them. It's a program that computes a fragment from the Mandelbrot set in parallel, and renders it in a new window:
+
 ![](.//media/img1.png)
 
 ## Installation
