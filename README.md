@@ -1,3 +1,5 @@
+# Parallel Programming 2020
+
 This project is a collection of labs I've done for Parallel Programming 2020 course, particularly those that are to do with OpenMPI.
 It includes various examples of using OpenMPI library, some of them being very simple and others a bit more complex.
 
